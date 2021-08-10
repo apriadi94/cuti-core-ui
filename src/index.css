@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500&display=swap');
+
+.text_akaya{
+  font-family: 'Akaya Telivigala', cursive;
+}
+
+table tbody tr td{
+  font-family: 'Shippori Mincho B1', serif;
+  font-size: 11px;
+  font-weight: 800;
+}

@@ -1,0 +1,10 @@
+{
+  apps : [
+    {
+      name      : "cuti-ui",
+      script    : "yarn start",
+      interpreter: "none",
+      args: "serve -p 8410 -T"
+    }
+  ]
+}
